@@ -171,7 +171,6 @@ generateButton.addEventListener('click', () => {
     //     password+=generateSymbol();
     // }
 
-
     let funcArr = [];
 
     if (uppercaseCheck.checked) 
