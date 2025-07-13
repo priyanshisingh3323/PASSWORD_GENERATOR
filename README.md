@@ -37,7 +37,7 @@ A responsive and customizable password generator built with **HTML**, **CSS**, *
 ## 🌐 Live Demo
 
 [🔗 View Live](https://climono.netlify.app/)  
-*Replace the link with your actual live project URL.*
+
 
 ---
 
